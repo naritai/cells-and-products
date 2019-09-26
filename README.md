@@ -2,7 +2,7 @@ An interview task.
 
 ## This app was created via create-react-app
 ## Here an example of the UI
-![Image alt](https://github.com/naritai/cells-and-products/example.png)
+![Image alt](https://github.com/naritai/cells-and-products/blob/master/example.png)
 
 # Possibilities:
 Create cell
