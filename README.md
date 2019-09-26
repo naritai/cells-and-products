@@ -1,4 +1,4 @@
-An interview task.
+# Another interview task.
 
 ## This app was created via create-react-app
 ## Here an example of the UI
@@ -6,5 +6,7 @@ An interview task.
 
 # Possibilities:
 Create cell
+
 Put certain amount of certain product in created cell
+
 Take certain amount from certain product from created cell
